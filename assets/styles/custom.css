@@ -1,0 +1,120 @@
+body {
+    background: #EEEEEE;
+    font-family: 'Roboto', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+    text-shadow: 0px 0px 12px rgba(0, 0, 0, 0.7);
+    width: 290px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav {
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 100px 0px 22px 0px;
+}
+.nav h1 {
+    font-size: 60px;
+    line-height: 1.2em;
+    font-weight: 100;
+    margin: 20px 0px 9px 0px;
+    color: #333;
+}
+.nav h2 {
+    font-size: 30px;
+    font-weight: 100;
+    margin: 20px 0px 9px 0px;
+    color: #333;
+}
+.boxs {
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px 0px 3px 0px;
+}
+.boxs div {
+    width: 290px;
+    height: 200px;
+    margin: 3px;
+    display: flex;
+}
+.boxs div:hover {
+    background-size: auto;
+    background-position: unset;
+}
+.box-1 {
+    background-image: url(/assets/images/sao-paulo.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box-2 {
+    background-image: url(/assets/images/atlanta.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box-3 {
+    background-image: url(/assets/images/austin.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box-4 {
+    background-image: url(/assets/images/bangalore.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box-5 {
+    background-image: url(/assets/images/berlin.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box-6 {
+    background-image: url(/assets/images/boston.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box-7 {
+    background-image: url(/assets/images/boulder.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box-8 {
+    background-image: url(/assets/images/chicago.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box-9 {
+    background-image: url(/assets/images/hong-kong.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box-10 {
+    background-image: url(/assets/images/houston.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box-11 {
+    background-image: url(/assets/images/london.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box-12 {
+    background-image: url(/assets/images/los-angeles.jpg);
+    background-size: cover;
+    background-position: center;
+}
+@media (max-width: 600px) 
+{
+    .nav { padding: 120px 0px 22px 40px; }
+    .nav h1 { font-size: 30px; }
+    .nav h2 { max-width: 400px; }
+    .boxs { padding: 0px 0px 3px 40px; }
+}
