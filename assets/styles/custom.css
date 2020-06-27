@@ -52,62 +52,62 @@ a {
     background-position: unset;
 }
 .box-1 {
-    background-image: url(/assets/images/sao-paulo.jpg);
+    background-image: url(../images/sao-paulo.jpg);
     background-size: cover;
     background-position: center;
 }
 .box-2 {
-    background-image: url(/assets/images/atlanta.jpg);
+    background-image: url(../images/atlanta.jpg);
     background-size: cover;
     background-position: center;
 }
 .box-3 {
-    background-image: url(/assets/images/austin.jpg);
+    background-image: url(../images/austin.jpg);
     background-size: cover;
     background-position: center;
 }
 .box-4 {
-    background-image: url(/assets/images/bangalore.jpg);
+    background-image: url(../images/bangalore.jpg);
     background-size: cover;
     background-position: center;
 }
 .box-5 {
-    background-image: url(/assets/images/berlin.jpg);
+    background-image: url(../images/berlin.jpg);
     background-size: cover;
     background-position: center;
 }
 .box-6 {
-    background-image: url(/assets/images/boston.jpg);
+    background-image: url(../images/boston.jpg);
     background-size: cover;
     background-position: center;
 }
 .box-7 {
-    background-image: url(/assets/images/boulder.jpg);
+    background-image: url(../images/boulder.jpg);
     background-size: cover;
     background-position: center;
 }
 .box-8 {
-    background-image: url(/assets/images/chicago.jpg);
+    background-image: url(../images/chicago.jpg);
     background-size: cover;
     background-position: center;
 }
 .box-9 {
-    background-image: url(/assets/images/hong-kong.jpg);
+    background-image: url(../images/hong-kong.jpg);
     background-size: cover;
     background-position: center;
 }
 .box-10 {
-    background-image: url(/assets/images/houston.jpg);
+    background-image: url(../images/houston.jpg);
     background-size: cover;
     background-position: center;
 }
 .box-11 {
-    background-image: url(/assets/images/london.jpg);
+    background-image: url(../images/london.jpg);
     background-size: cover;
     background-position: center;
 }
 .box-12 {
-    background-image: url(/assets/images/los-angeles.jpg);
+    background-image: url(../images/los-angeles.jpg);
     background-size: cover;
     background-position: center;
 }
